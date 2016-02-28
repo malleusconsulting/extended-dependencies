@@ -14,9 +14,9 @@
   </properties>
 
   <scm>
-    <connection>scm:git:git://github.com/malleusconsulting/extended-contentapp.git</connection>
-    <developerConnection>scm:git:git@github.com:malleusconsulting/extended-contentapp.git</developerConnection>
-    <url>https://github.com/malleusconsulting/extended-contentapp</url>
+    <connection>scm:git:git://github.com/malleusconsulting/extended-dependencies.git</connection>
+    <developerConnection>scm:git:git@github.com:malleusconsulting/extended-dependencies.git</developerConnection>
+    <url>https://github.com/malleusconsulting/extended-dependencies</url>
     <tag>HEAD</tag>
   </scm>
 
