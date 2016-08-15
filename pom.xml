@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>uk.co.malleusconsulting.magnolia.dependencies.extended</groupId>
   <artifactId>extended-dependencies-module</artifactId>
-  <version>1.1.1</version>
+  <version>1.1.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>extended-dependencies-module</name>
@@ -34,7 +34,7 @@
     <connection>scm:git:git://github.com/malleusconsulting/extended-dependencies.git</connection>
     <developerConnection>scm:git:git@github.com:malleusconsulting/extended-dependencies.git</developerConnection>
     <url>https://github.com/malleusconsulting/extended-dependencies</url>
-    <tag>extended-dependencies-module-1.1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <distributionManagement>
